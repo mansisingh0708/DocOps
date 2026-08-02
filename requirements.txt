@@ -1,0 +1,8 @@
+crewai[tools]
+langgraph
+python-dotenv
+mcp
+mcpadapt
+pypdf
+python-docx
+openpyxl

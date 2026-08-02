@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Configuration and Keys (CRITICAL to avoid leaking API keys)
+.env
+
+# Local test folders / generated items
+test_folder/
+reset_test.py
